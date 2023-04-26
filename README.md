@@ -13,7 +13,7 @@ I made this Finance Report in PowerBI with the Sample Finance Excel Workbook pro
 
 3️⃣ It has a Clustered Bar Chart with Year on X-Axis and Profit on Y-Axis showing Profit Quaterly.
 
-4️⃣ And Lastly It has a Area Chart showing Months on X-Axis and Profit on Y-Axis showing profit Monthly.
+4️⃣ And Lastly, It has a Area Chart showing Months on X-Axis and Profit on Y-Axis showing profit Monthly.
 
 I have also included a 🔄Reset Button at the Top to clear all Slicer's.
 
