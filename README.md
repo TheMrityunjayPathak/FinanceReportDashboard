@@ -3,6 +3,7 @@
 💵 Financial Analysis Report 💵
 
 Hello Everyone, 👋
+
 I made this Finance Report in PowerBI with the Sample Finance Excel Workbook provided by Microsoft on their Official Website.
 
 📝 Report has Multiple Section's from where you can manage the Data, Like:
