@@ -4,7 +4,7 @@
 
 Hello Everyone, 👋
 
-I made this Finance Report in PowerBI with the Sample Finance Excel Workbook provided by Microsoft on their Official Website.
+I made this Finance Report in PowerBI with the Finance Excel Workbook provided by Microsoft on their Website.
 
 📝 Report has Multiple Section's from where you can manage the Data, Like:
 
