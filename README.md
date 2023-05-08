@@ -1,5 +1,3 @@
-# Finance Report Dashboard
-
 💵 Financial Analysis Report 💵
 
 Hello Everyone, 👋
