@@ -1,4 +1,4 @@
-💵 Financial Analysis Report 💵
+**Financial Analysis Report**
 
 Hello Everyone, 👋
 
