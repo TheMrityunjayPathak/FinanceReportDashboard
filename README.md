@@ -4,6 +4,12 @@ Hello Everyone,
 
 I made this Finance Report in PowerBI with the Finance Excel Workbook provided by Microsoft on their Website.
 
+## Problem Statement
+
+- The goal of this Power BI Dashboard Project is to analyze the financial performance of a company using the provided Microsoft Sample Data.
+
+- The Project aims to create an insightful and visually appealing dashboard that provides a comprehensive overview of the company's financial metrics, enabling stakeholders to make informed business decisions.
+
 ## Sections in the Report
 
 **Report has Multiple Section's from where you can manage the Data, Like :**
