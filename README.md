@@ -36,4 +36,4 @@ git clone https://github.com/TheMrityunjayPathak/FinanceReportDashboard.git
 ## Link to the Dataset
 [Financial Excel Workbook](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
 
-![1681706976122](https://user-images.githubusercontent.com/123563634/232383508-858de053-6779-4fc6-b0d1-ff92d7679720.jpg)
+![1681706976122](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/assets/123563634/3bf0ea5e-1d2f-4062-9c21-d11682c66eb3)
