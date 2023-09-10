@@ -1,4 +1,4 @@
-## Financial Analysis Report
+## Finance Report Dashboard
 
 Hello Everyone,
 
