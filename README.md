@@ -2,7 +2,7 @@
 
 Hello Everyone,
 
-I made this Finance Report in PowerBI with the Finance Excel Workbook provided by Microsoft on their Website.
+I made this Finance Report in Power BI with the Finance Excel Workbook provided by Microsoft on their Website.
 
 ## Problem Statement
 
