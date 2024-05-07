@@ -22,7 +22,7 @@ I made this Finance Dashboard in Power BI with the Finance Excel Workbook provid
 
 - And Lastly, It has a Area Chart showing Months on X-Axis and Profit on Y-Axis showing profit Monthly.
 
-- I have also included a 🔄 Reset Button at the Top to clear all Slicer's.
+- I have also included a Reset Button at the Top to clear all Slicer's.
 
 - To use it hold CTRL and then click it to reset the Slicer's.
 
