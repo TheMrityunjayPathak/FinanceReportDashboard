@@ -14,11 +14,11 @@ Hello Everyone, I made this Finance Dashboard in Power BI with the Finance Excel
 
 - Report data can be sliced by Segments, Country and Year to show particular data.
 
-- It has cards showing Total Units Sold, Total Gross Sale and Total Profit.
+- Report has cards showing Total Units Sold, Total Gross Sale and Total Profit.
 
-- It has a clustered bar chart with year on X-Axis and profit on Y-Axis showing profit quarterly.
+- Report has a clustered bar chart with year on X-Axis and profit on Y-Axis showing profit quarterly.
 
-- And Lastly, It has a area chart showing months on X-Axis and profit on Y-Axis showing profit monthly.
+- And Lastly, Report has a area chart showing months on X-Axis and profit on Y-Axis showing profit monthly.
 
 - I have also included a **Reset** button at the top to clear all slicer's.
 
