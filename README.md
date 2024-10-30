@@ -1,8 +1,6 @@
 ## Finance Report Dashboard
 
-Hello Everyone,
-
-I made this Finance Dashboard in Power BI with the Finance Excel Workbook provided by Microsoft on their Website.
+Hello Everyone, I made this Finance Dashboard in Power BI with the Finance Excel Workbook provided by Microsoft on their Website.
 
 ## Problem Statement
 
@@ -12,23 +10,23 @@ I made this Finance Dashboard in Power BI with the Finance Excel Workbook provid
 
 ## Sections in the Report
 
-**Report has Multiple Section's from where you can manage the Data, Like :**
+**Report has multiple section's from where you can manage the data, like :**
 
-- Report Data can be sliced by Segments, Country and Year to show Particular Data.
+- Report data can be sliced by Segments, Country and Year to show particular data.
 
 - It has cards showing Total Units Sold, Total Gross Sale and Total Profit.
 
-- It has a Clustered Bar Chart with Year on X-Axis and Profit on Y-Axis showing Profit Quarterly.
+- It has a clustered bar chart with year on X-Axis and profit on Y-Axis showing profit quarterly.
 
-- And Lastly, It has a Area Chart showing Months on X-Axis and Profit on Y-Axis showing profit Monthly.
+- And Lastly, It has a area chart showing months on X-Axis and profit on Y-Axis showing profit monthly.
 
-- I have also included a Reset Button at the Top to clear all Slicer's.
+- I have also included a **Reset** button at the top to clear all slicer's.
 
-- To use it hold CTRL and then click it to reset the Slicer's.
+- To use it hold CTRL and then click it to reset all the slicer's.
 
 ## Getting Started
 
-- Clone the repository to your local machine using the following command :
+- Clone this repository to your local machine by using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/FinanceReportDashboard.git
 ```
