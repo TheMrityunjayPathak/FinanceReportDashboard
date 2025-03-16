@@ -18,9 +18,9 @@ To create a visually appealing dashboard that provides an overview of the compan
 
 - Report has cards showing Total Units Sold, Total Gross Sale and Total Profit.
 
-- Report has a clustered bar chart with year on X-Axis and profit on Y-Axis showing profit quarterly.
+- Report has a clustered bar chart with year on x-axis and profit on y-axis showing profit quarterly.
 
-- And Lastly, Report has a area chart showing months on X-Axis and profit on Y-Axis showing profit monthly.
+- And lastly, Report has a area chart showing months on x-axis and profit on y-axis showing profit monthly.
 
 - I have also included a **Reset** button at the top to clear all slicer's.
 
