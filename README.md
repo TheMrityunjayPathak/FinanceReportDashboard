@@ -31,7 +31,7 @@ Clone this repository to your local machine by using the following command :
 git clone https://github.com/TheMrityunjayPathak/FinanceReportDashboard.git
 ```
 
-## Link to Dataset
+## Link to the Dataset
 [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
 
 ![1681706976122](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/assets/123563634/3bf0ea5e-1d2f-4062-9c21-d11682c66eb3)
