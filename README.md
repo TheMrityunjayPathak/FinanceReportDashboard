@@ -2,13 +2,11 @@
 
 Hello Everyone, 
 
-I made this Finance Dashboard in Power BI with the Finance Excel Workbook provided by Microsoft on their Website.
+I made this Finance Dashboard in Power BI with the Finance Excel Data provided by Microsoft on their Website.
 
 ## Problem Statement
 
-The goal of this Power BI Dashboard is to analyze the financial performance of a company using the provided Microsoft Sample Data.
-
-To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
+To create a dashboard that provides an overview of company's financial metrics enabling stakeholders to make informed business decisions.
 
 ## Sections in the Report
 
