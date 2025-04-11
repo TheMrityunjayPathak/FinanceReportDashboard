@@ -6,7 +6,7 @@ I made this Finance Dashboard in Power BI with the Finance Excel Data provided b
 
 ## Problem Statement
 
-To create a dashboard that provides an overview of company's financial metrics enabling stakeholders to make informed business decisions.
+To create a dashboard that summarizes financial metrics to help stakeholders make informed decisions.
 
 ## Sections in the Report
 
