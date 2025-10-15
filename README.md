@@ -29,7 +29,7 @@ git clone https://github.com/TheMrityunjayPathak/FinanceReportDashboard.git
 <hr>
 
 ## Link to the Dataset
-- Dataset : [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
+- [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
 
 <hr>
 
